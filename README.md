@@ -10,6 +10,7 @@ In this project, I fixed a fictional restaurant’s website. All of the HTML and
   ![Moroccan Blog](assets/MoroccanBlog.gif)
 <!--   ![Moroccan Blog](./assets/MoroccanBlog.gif)
  -->
+![MoroccanBlog](https://github.com/Hamza-Musa/MoroccoBlog/assets/98530123/1085f42d-588c-4fd7-ad2e-b3b6c299dc57)
 
 </a>
 
