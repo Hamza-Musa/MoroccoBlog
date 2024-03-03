@@ -7,6 +7,10 @@ In this project, I fixed a fictional restaurant’s website. All of the HTML and
 
 <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
 <img src="/MoroccoBlog/assets/MoroccanBlog.gif" width="100%" alt="https://hamza-musa.github.io/MoroccoBlog/"/>
+  ![Moroccan Blog](assets/MoroccanBlog.gif)
+  ![Moroccan Blog](./assets/MoroccanBlog.gif)
+
+
 </a>
 
 ## How It's Made:
