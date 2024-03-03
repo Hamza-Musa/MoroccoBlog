@@ -6,10 +6,10 @@ In this project, I fixed a fictional restaurant’s website. All of the HTML and
 # Link to project: <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">Visit Here</a>
 
 <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
-<img src="/MoroccoBlog/assets/MoroccanBlog.gif" width="100%" alt="https://hamza-musa.github.io/MoroccoBlog/"/>
+<img src="/MoroccoBlog/assets/MoroccanBlog.gif" width="100%" alt="Error"/>
   ![Moroccan Blog](assets/MoroccanBlog.gif)
-  ![Moroccan Blog](./assets/MoroccanBlog.gif)
-
+<!--   ![Moroccan Blog](./assets/MoroccanBlog.gif)
+ -->
 
 </a>
 
