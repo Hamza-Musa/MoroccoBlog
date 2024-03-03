@@ -6,12 +6,13 @@ In this project, I fixed a fictional restaurant’s website. All of the HTML and
 # Link to project: <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">Visit Here</a>
 
 <a href="https://hamza-musa.github.io/MoroccoBlog/" target="_blank">
-<img src="/MoroccoBlog/assets/MoroccanBlog.gif" width="100%" alt="Error"/> </a>
-  ![Moroccan Blog](assets/MoroccanBlog.gif)
-<!--   ![Moroccan Blog](./assets/MoroccanBlog.gif)
- -->
-![MoroccanBlog](https://github.com/Hamza-Musa/MoroccoBlog/assets/98530123/1085f42d-588c-4fd7-ad2e-b3b6c299dc57)
+<img src="/MoroccoBlog/assets/MoroccanBlog.gif" width="100%" alt="Error"/> </a> 
 
+<!--   ![Moroccan Blog](assets/MoroccanBlog.gif)
+<!--   ![Moroccan Blog](./assets/MoroccanBlog.gif) -->
+ -->
+<!-- ![MoroccanBlog](https://github.com/Hamza-Musa/MoroccoBlog/assets/98530123/1085f42d-588c-4fd7-ad2e-b3b6c299dc57)
+ -->
 </a>
 
 ## How It's Made:
